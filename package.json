@@ -1,0 +1,13 @@
+{
+  "name": "Fhost",
+  "version": "0.0.1",
+  "description": "Node.js on Docker",
+  "author": "Sebastian",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
